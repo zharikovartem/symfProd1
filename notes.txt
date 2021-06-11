@@ -1,1 +1,3 @@
 https://github.com/ElisDN/demo-project-manager/blob/master/Makefile
+
+chmod -R 0755 manager - изменение прав на редактирование директории
