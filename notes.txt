@@ -11,7 +11,7 @@ docker-compose run --rm manager-php-cli
 
 # Запуск консоли:
 docker-compose run --rm manager-php-cli php bin/console 
-#
+# Запуск тестов
 docker-compose run --rm manager-php-cli php bin/phpunit
 
 
