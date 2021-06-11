@@ -1,4 +1,8 @@
 https://github.com/ElisDN/demo-project-manager/blob/master/Makefile
+https://www.doctrine-project.org/projects/orm.html
+
+ПОДУЧИТЬ:
+#Рефлексия
 
 chmod -R 0755 manager - изменение прав на редактирование директории
 
